@@ -5,7 +5,7 @@
 """
 Created on Sat Oct  1 15:50:32 2022
 
-@author: jasoncui and hanannah wang and jiasheng zhouuuuuu
+@author: jasoncui and hanannah wang and jiasheng zhouuuuuu and sophc
 """
 import requests
 import validators
